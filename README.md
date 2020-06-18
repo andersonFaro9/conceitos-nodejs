@@ -34,6 +34,12 @@ Minha nota foi 10 mas nota é só um detalhe que não deve embaçar a tua procur
 ### :computer: HTTP Codes.
 ![ff](https://user-images.githubusercontent.com/3237047/85077051-c4505b00-b197-11ea-92ff-cbcedb6886b0.png)
 
+### Nota 10 👋
+![WhatsApp Image 2020-06-18 at 13 31 29](https://user-images.githubusercontent.com/3237047/85078301-83a61100-b19a-11ea-8936-f25d9038eb3d.jpeg)
+
+
+
+
 Para fazer fork; :white_check_mark:
 
 Crie um "branch" com sua "feature": `git checkout -b my-feature`; :white_check_mark: <br/>
