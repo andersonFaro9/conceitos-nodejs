@@ -29,8 +29,6 @@ Minha nota foi 10 mas nota é só um detalhe que não deve embaçar a tua procur
 
 ![ff](https://user-images.githubusercontent.com/3237047/85076737-23fa3680-b197-11ea-9d0d-c68bd9ba703a.png)
 
-## :nerd_face: :rocket: Como contribuir.
-
 ### :computer: HTTP Codes.
 ![ff](https://user-images.githubusercontent.com/3237047/85077051-c4505b00-b197-11ea-92ff-cbcedb6886b0.png)
 
@@ -40,13 +38,6 @@ Minha nota foi 10 mas nota é só um detalhe que não deve embaçar a tua procur
 
 ### Testes
 ![teste](https://user-images.githubusercontent.com/3237047/85079102-63775180-b19c-11ea-9370-c83a0a2bd0c7.png)
-
-
-Para fazer fork; :white_check_mark:
-
-Crie um "branch" com sua "feature": `git checkout -b my-feature`; :white_check_mark: <br/>
-commit mudanças: `git commit -m 'feat: My new feature'`; :white_check_mark:<br/>
- Do push the branch: `git push origin my-feature` :white_check_mark:
 
 ####  :white_check_mark:  Este repositório te ajudou ou mesmo te inspirou? Saiba que isso foi conquistado com muita dedicação e esperança e o mais importante:
 #### :white_check_mark:  Mantive e mantenho minha fé em <b>Deus</b> em primeiro no topo dos meus compromissos.
