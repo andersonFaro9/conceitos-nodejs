@@ -102,7 +102,8 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+## Solução para o desafio
+https://www.youtube.com/watch?v=lziAk0J_Ppc&feature=youtu.be&t=1398
 ---
 
 Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
